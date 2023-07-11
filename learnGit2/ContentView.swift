@@ -18,6 +18,7 @@ struct ContentView: View {
             Text("Hello Learn git")
             Text("This the new text from Staging")
             Text("This the new text from Staging2")
+            Text("This the new text from Staging2")
         }
         .padding()
     }

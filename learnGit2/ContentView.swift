@@ -22,7 +22,7 @@ struct ContentView: View {
             Text("New Text")
             Text("New Text 2")
             Text("New Text 3")
-        }
+        }.foregroundColor(.red)
         .padding()
     }
 }

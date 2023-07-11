@@ -15,7 +15,8 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Hello, world!")
             Text("Rico Oktananda")
-            Text("Hello Learn gut")
+            Text("Hello Learn git")
+            Text("This the new text from Staging")
         }
         .padding()
     }

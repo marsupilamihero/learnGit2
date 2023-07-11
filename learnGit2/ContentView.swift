@@ -19,6 +19,7 @@ struct ContentView: View {
             Text("This the new text from Staging")
             Text("This the new text from Staging2")
             Text("This the new text from Staging2")
+            Text("New Text")
         }
         .padding()
     }
